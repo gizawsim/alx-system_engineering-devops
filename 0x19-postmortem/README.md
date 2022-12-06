@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/27811626/205989250-31a04fef-56b1-4438-b482-b9668a456994.png)
+
 # Core banking System requests failure report 
 
 Last week, it was reported that the CBS platform was returning 500 Error on all requests made on the platform routes, all the services were down. 90% of the users and all the operation were affected. The root cause was the failure of our master server web-01.
